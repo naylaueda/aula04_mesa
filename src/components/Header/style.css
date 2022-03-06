@@ -1,0 +1,9 @@
+.header_home{
+    background: #838383;
+    display: flex;
+    justify-content: center;
+}
+
+#title{
+    color: #fff;
+}
